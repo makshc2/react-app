@@ -261,7 +261,7 @@ function handleFileSelect(evt) {
 }
 
 getAnimation(null);
-
+//
 document
   .getElementById('files')
   .addEventListener('change', handleFileSelect, false);
